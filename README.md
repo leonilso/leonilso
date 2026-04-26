@@ -1,6 +1,15 @@
 # 👋 Olá, eu sou o Leonilso Wrublak  
 
-<img src="perfil.png" />
+<p align="center">
+  <svg width="200" height="200">
+    <defs>
+      <clipPath id="circleView">
+        <circle cx="100" cy="100" r="100" />
+      </clipPath>
+    </defs>
+    <image href="perfil.jpg" width="200" height="200" clip-path="url(#circleView)" />
+  </svg>
+</p>
 
 ---
 
@@ -50,9 +59,12 @@
 
 ## 📚 Projetos em Destaque  
 
-🔹 Modelos de Machine Learning para previsão de default em operações de crédito 
+🔹 Modelos de Machine Learning para previsão de default em operações de crédito
+
 🔹 Comparação entre regressão linear e redes neurais  
-🔹 Projetos de ciência de dados aplicados à economia  
+
+🔹 Projetos de ciência de dados aplicados à economia 
+
 🔹 Sistemas educacionais com Python e Scratch  
 
 ---
