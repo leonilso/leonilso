@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Leonilso Wrublak  
 
 <p align="center">
-  <img src="perfil.png" width="180"/>
+  <img src="perfil.jpg" width="180"/>
 </p>
 ---
 
