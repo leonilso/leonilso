@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou o Leonilso Wrublak  
 
-<p align="center">
-  <img src="https://github.com/leonilso.png" width="180" style="border-radius:50%; border:3px solid #00F7FF;"/>
-</p>
-
 ## 🧠 Sobre mim  
 
 🎓 Estudante de Ciências Econômicas  
