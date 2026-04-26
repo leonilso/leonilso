@@ -1,6 +1,6 @@
-"# 👋 Olá, eu sou o Leonilso Wrublak  
+# 👋 Olá, eu sou o Leonilso Wrublak  
 
-<img src=\"https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Economia+%2B+Inteligência+Artificial;Ciência+de+Dados;Machine+Learning;Professor+de+Programação;Transformando+dados+em+decisão\" />
+<img src="perfil.png" />
 
 ---
 
@@ -36,21 +36,21 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonilso&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonilso&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📈 Gráfico de Atividade  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonilso&theme=tokyo-night)  
 
 ---
 
 ## 📚 Projetos em Destaque  
 
-🔹 Modelos de Machine Learning para previsão binária  
+🔹 Modelos de Machine Learning para previsão de default em operações de crédito 
 🔹 Comparação entre regressão linear e redes neurais  
 🔹 Projetos de ciência de dados aplicados à economia  
 🔹 Sistemas educacionais com Python e Scratch  
