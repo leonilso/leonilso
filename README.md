@@ -1,16 +1,8 @@
 # 👋 Olá, eu sou o Leonilso Wrublak  
 
 <p align="center">
-  <svg width="200" height="200">
-    <defs>
-      <clipPath id="circleView">
-        <circle cx="100" cy="100" r="100" />
-      </clipPath>
-    </defs>
-    <image href="perfil.jpg" width="200" height="200" clip-path="url(#circleView)" />
-  </svg>
+  <img src="perfil.png" width="180"/>
 </p>
-
 ---
 
 ## 🧠 Sobre mim  
