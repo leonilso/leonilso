@@ -76,10 +76,10 @@ Ensino programação para ensino fundamental e médio
 
 ---
 
-## 🧠 Filosofia  
+## Filosofia  
 
 > \"A interseção entre Economia, Inteligência Artificial e Educação é onde surgem as melhores soluções.\"  
 
 ---
 
-⭐ Se gostar dos meus projetos, considere dar uma estrela!"
+ Se gostar dos meus projetos, considere dar uma estrela!"
