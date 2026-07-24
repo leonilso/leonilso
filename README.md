@@ -1,26 +1,26 @@
-# 👋 Olá, eu sou o Leonilso Wrublak  
+# Olá, eu sou o Leonilso Wrublak  
 
-## 🧠 Sobre mim  
+## Sobre mim  
 
-🎓 Estudante de Ciências Econômicas  
-💻 Professor de Desenvolvimento de Sistemas e Ciência de Dados  
-📊 Foco em Machine Learning, Econometria e IA aplicada  
-📚 Pesquisa acadêmica: Regressão Linear vs Redes Neurais  
-🧑‍🏫 Ensino programação para ensino fundamental e médio  
-
----
-
-## 🚀 Áreas de Interesse  
-
-- 📊 Econometria e Modelagem Estatística  
-- 🤖 Machine Learning e Deep Learning  
-- 💳 Análise de risco de crédito  
-- 📈 Ciência de Dados aplicada à economia  
-- 🎮 Educação com tecnologia e gamificação  
+Estudante de Ciências Econômicas  
+Professor de Desenvolvimento de Sistemas e Ciência de Dados  
+Foco em Machine Learning, Econometria e IA aplicada  
+Pesquisa acadêmica: Regressão Linear vs Redes Neurais  
+Ensino programação para ensino fundamental e médio  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## Áreas de Interesse  
+
+- Econometria e Modelagem Estatística  
+-  Machine Learning e Deep Learning  
+-  Análise de risco de crédito  
+-  Ciência de Dados aplicada à economia  
+-  Educação com tecnologia e gamificação  
+
+---
+
+##  Tecnologias e Ferramentas  
 
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,13 +35,13 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 📈 Gráfico de Atividade  
+##  Gráfico de Atividade  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonilso&theme=tokyo-night)  
 
 ---
 
-## 📚 Projetos em Destaque  
+##  Projetos em Destaque  
 
 🔹 Modelos de Machine Learning para previsão de default em operações de crédito
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 👨‍🏫 Experiência como Professor  
+##  Experiência como Professor  
 
 - Ensino programação para ensino fundamental e médio  
 - Experiência com Scratch, Python e Banco de Dados  
@@ -62,10 +62,18 @@
 
 ---
 
-## 🌐 Conecte-se comigo  
+##  Experiência como Analista de TI  
+
+- Desenvolvimento com python 
+- Gestão de infraestrutura  
+- Gestão de constratos 
+
+---
+
+##  Conecte-se comigo  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonilso-wrublak/)  
-[![WebSite](https://img.shields.io/badge/Leonilso.com-10B981?style=for-the-badge&logo=website&logoColor=white)](https://www.linkedin.com/in/leonilso-wrublak/)  
+[![WebSite](https://img.shields.io/badge/Leonilso.com-10B981?style=for-the-badge&logo=website&logoColor=white)](https://leonilso.github.io/)  
 
 ---
 
